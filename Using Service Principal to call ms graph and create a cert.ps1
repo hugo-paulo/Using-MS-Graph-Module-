@@ -1,4 +1,8 @@
-﻿#Try using MS Graph, if not use AZure AD moodules
+#Note if get error with Import-Module Microsoft.Graph.Authentication after installing mg graph module run command in this link
+#Set-ExecutionPolicy Unrestricted
+#https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/cannot-run-scripts-powershell
+
+#Try using MS Graph, if not use AZure AD moodules
 
 #need to sign in a SP
 #How to use this with provided credentials instead of interactive log in?
